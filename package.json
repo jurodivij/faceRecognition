@@ -10,7 +10,9 @@
     "react-particles-js": "^2.7.0",
     "react-scripts": "3.1.1",
     "react-tilt": "^0.1.4",
-    "tachyons": "^4.11.1"
+    "tachyons": "^4.11.1",
+    "threads": "^1.0.0-beta.5",
+    "worker": "^0.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
